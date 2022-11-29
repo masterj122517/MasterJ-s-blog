@@ -16,7 +16,7 @@ just copy my config and use it
 
 Fine Let's keep going  
 
-![dashboard](/images/dashboard.png)
+![dashboard](/img/dashboard.png)
 __This shit is my dashboard__   
 
 ___Sleep Well, MasterJ___
