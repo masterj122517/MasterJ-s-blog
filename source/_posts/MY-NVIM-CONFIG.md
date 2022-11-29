@@ -8,9 +8,15 @@ tags:
 
 我的NVIM链接：[MasterJ's NVIM](https://www.github.com/masterj122517/nvim)
 
-- you know what I don't wnat to write this anymore 
 ___
 fuck you 
 just copy my config and use it 
 ## ___it's so damn good___ 
 ![rick](https://i.ebayimg.com/images/g/bAkAAOSwJhRhwRgJ/s-l500.png)
+
+Fine Let's keep going  
+
+![dashboard](../../pictures/dashboard.png)
+__This shit is my dashboard__   
+
+___Sleep Well, MasterJ___
